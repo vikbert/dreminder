@@ -1,10 +1,10 @@
 version: 0.17.0
 files:
   - url: stretchly-0.17.0-mac.zip
-    sha512: 3yhzt1S48kxhObNaJHUMUK3n9X3lHfF5rwNMsKjVzOVYDOSnkfwWdfWaISvyfCOzdt4VKe7k6bs0cDjMLNREBg==
+    sha512: br4hlNNah0Vp2ES/BJ2K7IY38GIHmwPUlb7nXL4aIx5KTwL61yBOCsPicQUe0bi0sbIHpid5kZ9TISCtbS15nQ==
   - url: stretchly-0.17.0.dmg
-    sha512: vhI83FDmY+YUfyl0Kp4vMyw4aajhXd17LausZYRxSN1Z5JCZfGQ5dOz5iHo4Glbrur/LWflxObfdyn+qER2e9A==
-    size: 55623081
+    sha512: OMzOVgqSTxJ69Y2OrYpWCTQldfNFotn7/N6lvnRwphtSAsTS68O/jKvH+hOWaaB0zRQWNH+B5AwNjyHuWpTkYw==
+    size: 55626122
 path: stretchly-0.17.0-mac.zip
-sha512: 3yhzt1S48kxhObNaJHUMUK3n9X3lHfF5rwNMsKjVzOVYDOSnkfwWdfWaISvyfCOzdt4VKe7k6bs0cDjMLNREBg==
-releaseDate: '2018-08-11T18:29:52.833Z'
+sha512: br4hlNNah0Vp2ES/BJ2K7IY38GIHmwPUlb7nXL4aIx5KTwL61yBOCsPicQUe0bi0sbIHpid5kZ9TISCtbS15nQ==
+releaseDate: '2018-08-11T19:44:38.302Z'
