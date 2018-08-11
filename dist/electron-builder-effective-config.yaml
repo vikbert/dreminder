@@ -1,0 +1,47 @@
+directories:
+  output: dist
+  buildResources: build
+appId: net.hovancik.stretchly
+productName: stretchly
+dmg:
+  icon: build/icon.icns
+  iconSize: 128
+  contents:
+    - x: 355
+      'y': 125
+      type: link
+      path: /Applications
+    - x: 155
+      'y': 125
+      type: file
+mac:
+  category: public.app-category.healthcare-fitness
+  target:
+    - dmg
+    - zip
+  extendInfo:
+    LSBackgroundOnly: 1
+    LSUIElement: 1
+linux:
+  category: Utility
+  target:
+    - AppImage
+    - deb
+    - rpm
+    - freebsd
+    - pacman
+    - tar.xz
+win:
+  target:
+    - nsis
+    - nsis-web
+    - 7z
+    - zip
+    - appx
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+nsisWeb:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+electronVersion: 2.0.0

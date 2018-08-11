@@ -1,0 +1,42 @@
+module.exports = [
+  {data: ['学会离开', '你是否经历过大脑会自己突然迸发出问题的解决方案? 你所要做的就是，离开电脑，完全的从现在的工作状态抽离出来'], enabled: true},
+  {data: ['微休息', '微休息是提高肌肉活动性能的最佳方式。经常性的微休息可以'], enabled: true},
+  {data: ['防止干眼症', '长时间的盯着显示器，会引起各种干眼疾病。快速的眨眼会有效的缓解这种状况。'], enabled: true},
+  {data: ['坐姿-站姿', '你是否有可以升降的办公桌？可以考虑一下转换一下'], enabled: true},
+  {data: ['重新加强注意力', '你是不是在焦头烂额不知所从？这时候就表明你需要休息一下了。'], enabled: true},
+  {data: ['远离技术', '来个非技术的散步如何?'], enabled: true},
+  {data: ['享受水果', '花时间去享用水果，要让身体保持酸性环境'], enabled: true},
+  {data: ['上厕所', '走路去最远的卫生间，让自己离开现在的环境'], enabled: true},
+  {data: ['咖啡时间', '咖啡时间? 保证你每次喝咖啡的时间要达到五分钟.'], enabled: true},
+  {data: ['实践', '看再多的书是学不会脚本语言的'], enabled: true},
+  {data: ['简单和复杂', '简单不先于复杂，而是在复杂之后.'], enabled: true},
+  {data: ['代码和注释', '优秀的代码几乎不需要代码注释，专注KISS原则吧。'], enabled: true},
+  {data: ['好程序员和好代码', '任何傻瓜都能写出计算机可以理解的代码。好的程序员能写出人能读懂的代码'], enabled: true},
+  {data: ['承诺', '如果你没有把握做到，最好就不要承诺，你什么也不承诺，至少别人不会看不起你。'], enabled: true},
+  {data: ['调试代码', '如果调试一个程序让你很苦恼，千万不要放弃，成功永远在拐角之后，除非你走到拐角。'], enabled: true},
+  {data: ['理解', '尝试着对别人讲解这个知识点并让他理解——你能讲清楚才说明你真的理解了。'], enabled: true},
+  {data: ['我需要注释吗？', '优秀的代码是它自己最好的文档。当你考虑要添加一个注释时，问问自己，如何能改进这段代码，以让它不需要注释'], enabled: true},
+  {data: ['出类拔萃', '你比他好一点，他不会承认你，反而会嫉妒你，只有你比他好很多，他才会承认你，然后还会很崇拜你，所以要做，就一定要比别人做得好很多'], enabled: true},
+  {data: ['测试代码', '测试是来表明bug的存在，而不是不存在'], enabled: true},
+  {data: ['咖啡时间', '保证你每次喝咖啡的时间要达到五分钟'], enabled: true},
+  {data: ['面对面的合作', '不要发短信给你的同事，而是走到他的桌前和他交流'], enabled: true}
+]
+
+module.backup = [
+  {data: ['Not alone', 'Do you find it hard to take a break alone? Try to do it with a co-worker. Aside from making it easier to stick to breaks, you will have a chance to get to know them better. Taking breaks together increases productivity.'], enabled: true},
+  {data: ['Step away', 'Do you ever notice how your brain can figure things out by itself? All it takes is to step away from the computer and take a break to think about something totally unrelated.'], enabled: true},
+  {data: ['Microbreaks', 'Rest is a key component in ensuring the performance of the musculoskeletal system. Frequent breaks can decrease the duration of a task and help lower the exposure to ergonomic injury risk.'], enabled: true},
+  {data: ['Meditation', 'Research studies suggest that mindfulness-based excercises help decrease anxiety, depression, stress, and pain, and help improve general health, mental health, and quality of life. Not sure how to start? There are numerous apps to help you out.'], enabled: true},
+  {data: ['Blink', 'Looking at screens for a long time causes you to blink less, thus exposing your eyes to the air. Blink rapidly for a few seconds to refresh the tear film and clear dust from the eye surface.'], enabled: true},
+  {data: ['Ergonomics', 'Improper height and angle of the keyboard, mouse, monitor or working surface can cause health problems. Take some time to read about desk ergonomics.'], enabled: true},
+  {data: ['Move', 'There are a lot of ways you can exercise within your office. Try marching in place or doing desk push-ups.'], enabled: true},
+  {data: ['Change', 'Do you have a stability ball or standing work desk? Consider replacing your desk chair with them for a while.'], enabled: true},
+  {data: ['Notice', 'Are you daydreaming or having trouble focusing? It is a sign that you need to take a break.'], enabled: true},
+  {data: ['Tech', 'How about taking a no-tech walk?'], enabled: true},
+  {data: ['Metabolism', 'Emerging research shows that sitting for long periods of time contributes to risk of metabolic syndrome, heart attack and stroke risk and overall death risk, among others. Taking regular walking breaks can help your circulation, working to counteract some of those problems.'], enabled: true},
+  {data: ['Active Meetings', 'How about moving meetings from the conference room to the concourse? Walking not only burns calories but it may even foster a sense of collaboration.'], enabled: true},
+  {data: ['Fruit', 'Take your time and eat some fruit. Slowly. Notice the flavor, the texture, the freshness.'], enabled: true},
+  {data: ['Bathrooms', 'Walk to the farthest bathroom in the worksite facility when going to the restroom.'], enabled: true},
+  {data: ['Coffee break', 'Going on coffee break? Consider doing a 5-minute walk every time you go for one.'], enabled: true},
+  {data: ['Colleagues', 'Do not email or message office colleagues, walk to their desks to communicate with them.'], enabled: true}
+]
