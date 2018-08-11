@@ -1,8 +1,17 @@
 module.exports = [
   {
     data: [
-      '学会离开',
-      '你是否经历过大脑会自己突然迸发出问题的解决方案? 你所要做的就是，离开电脑，完全的从现在的工作状态抽离出来'
+      'Adapter(wrapper) Pattern',
+      'To translate one interface for a class into a compatible interface for the clients. An adapter allows clients ' +
+      'to work with those classes with incompatible interfaces by translating them into compatible one.'
+    ],
+    enabled: true
+  },
+  {
+    data: [
+      'Singleton Pattern',
+      'To have only one instance of this object in the application that will handle all requests. For example: ' +
+      'single locker file, single DB connection'
     ],
     enabled: true
   }
