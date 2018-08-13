@@ -7,13 +7,13 @@ module.exports = [
       describes how to solve such problems: 1. Encapsulate creating and assembling the parts of a complex \
       object in a separate Builder object. 2. A class delegates object creation to a Builder object instead \
       of creating the objects directly. Advantages of the Builder pattern include: \
-      [1] Allows you to vary a product’s internal representation. \
-      [2] Encapsulates code for construction and representation. \
-      [3] Provides control over steps of construction process. \
+       [1] Allows you to vary a product’s internal representation. \
+       [2] Encapsulates code for construction and representation. \
+       [3] Provides control over steps of construction process. \
       Disadvantages of the Builder pattern include: \
-      [1] Requires creating a separate ConcreteBuilder for each different type of product. \
-      [2] Requires the builder classes to be mutable. \
-      [3] Dependency injection may be less supported.'
+       [1] Requires creating a separate ConcreteBuilder for each different type of product. \
+       [2] Requires the builder classes to be mutable. \
+       [3] Dependency injection may be less supported.'
     ],
     enabled: true
   },
@@ -56,7 +56,12 @@ module.exports = [
     data: [
       'Singleton Pattern',
       '📋 To have only one instance of this object in the application that will handle all requests. For example: \
-      single locker file, single DB connection'
+      single locker file, single DB connection. Essential points: \
+      [1] private __construct() \
+      [2] private __clone() \
+      [3] private __wakeup() \
+      [4] private static $instance \
+      [5] public  static getInstance()'
     ],
     enabled: true
   }
